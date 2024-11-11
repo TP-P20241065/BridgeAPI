@@ -1,0 +1,7 @@
+cx_Freeze
+fastapi
+opencv-python-headless
+python-multipart
+starlette
+uvicorn
+yt-dlp
